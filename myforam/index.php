@@ -20,11 +20,11 @@
 <html lang="en">
 
 <head>
-    <title>HOME | Discussion FORAM</title>
-    <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
+    <title>HOME | Discussion FORAM</title>
+    <!-- Required meta tags -->
+    <link rel="shortcut icon" href="images/favicon.png" type="image/x-icon"/>
 
     <script src="jquery-3.3.1.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/sweetalert/2.1.2/sweetalert.min.js"></script>
@@ -69,13 +69,13 @@
         </ol>
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img class="d-block w-100" Style="height: 400px" src="includes/images/pic1.jpeg" alt="First slide">
+                <img class="d-block" Style="height: 500px"  src="includes/images/progbackground.jpg" alt="First slide" width= "100%">
             </div>
             <div class="carousel-item">
-                <img class="d-block w-100" Style="height: 400px" src="includes/images/pic2.jpeg" alt="Second slide">
+                <img class="d-block w-100" Style="height: 500px" src="includes/images/progback.jpg" alt="Second slide">
             </div>
             <div class="carousel-item">
-                <img class="d-block w-100" Style="height: 400px" src="includes/images/pic3.jpeg" alt="Third slide">
+                <img class="d-block w-100" Style="height: 500px" src="includes/images/programmingback.jpg" alt="Third slide">
             </div>
         </div>
         <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
