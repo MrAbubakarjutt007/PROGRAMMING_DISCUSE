@@ -17,17 +17,14 @@
    
    ?>
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark ">
-        <a class="navbar-brand  " href="welcome.php">AHU FORAM</a>
+        <a class="navbar-brand  " href="welcome.php">PROGRAMMING_DiSCUSSION</a>
         <div class="collapse navbar-collapse" id="navbarNavDropdown">
             <ul class="navbar-nav">
                 <li class="nav-item">
-                    <a class="nav-link" href="index.php">Home </a>
+                    <a class="nav-link active" href="index.php">HOME</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">About</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="contact.php">Contact Us</a>
+                    <a class="nav-link active" href="contact.php">CONTACT_US</a>
                 </li>
                 
             </ul>

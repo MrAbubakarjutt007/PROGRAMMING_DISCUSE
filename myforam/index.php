@@ -22,7 +22,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>HOME | Discussion FORAM</title>
+    <title>HOME |PROGRAMMING_DiSCUSSION</title>
     <!-- Required meta tags -->
 
     <script src="jquery-3.3.1.min.js"></script>
@@ -97,10 +97,10 @@
           $cat_details = $row['categories_details'];
           echo"
           
-             <div class='card col-4 mb-4' style='width: 18rem;'>
+             <div class='card col-4 my-3 mx-5 style='width:18rem;'>
             <div class='card-body'>
-            <a href='threadlist.php?catid=".$cat_id."' ><h1 class='card-title'> $cat_name  </h1></a>
-              <p class='card-text'> ".substr($cat_details,0,100) ."........  </p>
+            <a href='threadlist.php?catid=".$cat_id."' ><h1 class='card-title text-success'> $cat_name  </h1></a>
+              <p class='card-text text-danger'> ".substr($cat_details,0,150) ."........  </p>
               <a href='threadlist.php?catid=".$cat_id."' '></a>
             </div>
           </div>

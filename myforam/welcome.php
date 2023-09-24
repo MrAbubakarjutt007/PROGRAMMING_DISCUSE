@@ -9,14 +9,14 @@
   <head>
      <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>Welcome | AHU FORAM</title>
+    <title>PROGRAMMING_DiSCUSSION</title>
     <!-- Required meta tags -->
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
   </head>
   <body>
   <div class="container pr-5   pl-5"> <div class="container pl-5 pr-5">
-    <h1 class ="bg-success text-center p-3">Welcome To AHU Discous Foram</h1?></div>
+    <h1 class ="bg-success text-white text-center p-3 rounded-pill my-2">WELCOME TO PROGRAMMING Discussion</h1></div>
     </div>
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
