@@ -24,7 +24,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <title>HOME | Discussion FORAM</title>
     <!-- Required meta tags -->
-    <link rel="shortcut icon" href="images/favicon.png" type="image/x-icon"/>
 
     <script src="jquery-3.3.1.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/sweetalert/2.1.2/sweetalert.min.js"></script>
